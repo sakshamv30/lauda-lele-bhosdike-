@@ -3,7 +3,7 @@
 #include<utility>
 #include<vector>
 
-using namespace std;
+using namespace std;//galti
 
 int main()
 {
