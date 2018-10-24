@@ -6,7 +6,7 @@ body {
 	border color: rgb(59,89,152);
 }
 .button{
-	color: black;
+	color: black;//pelandush'
 	background: rgb(59,89,152);
 }
 
