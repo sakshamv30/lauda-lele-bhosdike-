@@ -1,9 +1,6 @@
-#include<iostream>
-#include<map>
-#include<utility>
-#include<vector>
+#include<bits/stdc++.h>
 
-using namespace std;
+using namespace std;//galti
 
 int main()
 {
@@ -63,3 +60,4 @@ int main()
         }
         cout<< v[0] << endl;
 }
+//lad chato mera
