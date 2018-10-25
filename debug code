@@ -7,7 +7,6 @@ int x = 100;
 int main(){
   int n;
   cin >> n;
-  cout << n*n << endl;
-  cout << pow(n, 5) << endl;
+
   return 0;
 }
