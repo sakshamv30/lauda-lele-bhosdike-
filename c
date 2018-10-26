@@ -21,9 +21,8 @@ int main()
     it=m.begin();
     for( ;it!=m.end();it++)
     {
-        if (++it == m.end()) {
+        if (++it == m.end())
             break;
-        }
         it--;
         string s1=((*it).first).first;
         string s2=((*it).first).second;
