@@ -1,4 +1,4 @@
 # lauda-lele-bhosdike-
 LAUDA LELE BHOSDIKE
 
-bhai mt le n bhosdki.
+Bhai Ek aur karde ho sakta hai na hua ho XD 
